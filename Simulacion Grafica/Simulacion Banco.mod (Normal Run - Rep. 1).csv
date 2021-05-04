@@ -1,0 +1,15 @@
+"Simulacion Banco.mod (Normal Run - Rep. 1)"
+Name,Operation Cost Dollars,% Operation Cost,Resource Cost Dollars,% Resource Cost,Total Cost Dollars,% Total Cost
+Fila de entrada,4,6988,37,1124113918632,0,0,4,6988,37,1124113918632
+Toma de turno,0,0,0,0,0,0
+Fila de ejecutivo,0,627,4,95218287008089,0,0,0,627,4,95218287008089
+Ejecutivo,0,0,0,0,0,0
+Cajas.1,0,0,0,0,0,0
+Cajas.2,0,0,0,0,0,0
+Cajas.3,0,0,0,0,0,0
+Cajas.4,0,0,0,0,0,0
+Cajas,0,0,0,0,0,0
+Fila caja directa,6,669,52,6732177999516,0,0,6,669,52,6732177999516
+Fila ejecutivo salida,0,6662,5,2621879381043,0,0,0,6662,5,2621879381043
+SUM,12,6611,100,0,0,12,6611,100
+
